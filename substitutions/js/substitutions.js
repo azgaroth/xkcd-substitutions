@@ -73,6 +73,7 @@ $('body').textWalk(function(replacements2) {
     ['Homeland Security', 'Homestar Runner'],
     ['HOMELAND SECURITY', 'HOMESTAR RUNNER'],
     ['homeland security', 'homestar runner'],
+    ['Бойко Борисов', 'Бойко Бърборко'],
     ['Could not be reached for comment', 'Is guilty and everyone knows it'],
     ['COULD NOT BE REACHED FOR COMMENT', 'IS GUILTY AND EVERYONE KNOWS IT'],
     ['could not be reached for comment', 'is guilty and everyone knows it']];
